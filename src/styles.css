@@ -1,5 +1,5 @@
 body {
-  font-family: font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   background-color: #fffee0;
 }
 
@@ -12,7 +12,7 @@ h2 {
   text-align: center;
   margin: -10px 0 10px;
   padding: 0;
-font-weight: bolder;
+  font-weight: bolder;
 }
 
 li {
@@ -54,4 +54,3 @@ li {
   position: relative;
   right: 0;
 }
-
